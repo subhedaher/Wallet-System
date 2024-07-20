@@ -1,0 +1,10 @@
+{
+    "inter": {
+        "300": "C:\\xamppp\\htdocs\\T3-WalletSystem\\storage\\fonts\/inter_300_ffc5f81dee6c59552a98700cb9ce21c6",
+        "normal": "C:\\xamppp\\htdocs\\T3-WalletSystem\\storage\\fonts\/inter_normal_3ba32a48b7860dfb008d0b1457da683a",
+        "500": "C:\\xamppp\\htdocs\\T3-WalletSystem\\storage\\fonts\/inter_500_5227956572435006df168ae4e07c5148",
+        "600": "C:\\xamppp\\htdocs\\T3-WalletSystem\\storage\\fonts\/inter_600_d0d96b12edf8a78fd85c552d12762fb0",
+        "bold": "C:\\xamppp\\htdocs\\T3-WalletSystem\\storage\\fonts\/inter_bold_868976cd8a549429e4b1d38e6b1b6bed",
+        "800": "inter_800_1909e5290c7f23524b9891a4fa9896a2"
+    }
+}
